@@ -28,6 +28,22 @@ img{
 
 /* MAIN */
 
+/* Label main (right) */
+
+.label-right{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 15px;
+}
+
+.label-right>span{
+    background-color: #4a4a4a;
+    margin: 0 3px;
+    padding: 3px 5px;
+    border-radius: 5px;
+}
+
 
 .card-container{
     display: flex;
